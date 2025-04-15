@@ -1,4 +1,5 @@
-*Project Overview*
+<h1>Project Overview</h1>
+
 This project benchmarks multiple machine learning models to compare their performance in terms of accuracy and efficiency. The goal is to evaluate:
 
 RMSE (Root Mean Squared Error): Measures the average magnitude of the error between predicted and actual values.
@@ -9,7 +10,8 @@ Prediction Time: The amount of time the model takes to make predictions on the t
 
 We use PySpark for distributed processing and large-scale data handling, and scikit-learn for traditional machine learning models. After training, the models are evaluated, and the performance metrics are visualized using bar plots for easy comparison.
 
-Technologies Used
+<h1>Technologies Used</h1>
+
 PySpark: Distributed computing framework to handle large-scale data and apply machine learning models.
 
 scikit-learn: A machine learning library in Python used for various algorithms like Linear Regression, Random Forest, and MLP.
@@ -20,7 +22,8 @@ Matplotlib: A Python library used for data visualization, including the creation
 
 NumPy: A core library for numerical computing used to handle arrays and matrix operations.
 
-Models Benchmarking
+<h1>Models Benchmarking</h1>
+
 The following models are benchmarked in this project:
 
 Linear Regression (LR): A simple linear model used to predict a continuous target variable.
@@ -39,7 +42,8 @@ K-Nearest Neighbors (KNN): A simple, instance-based learning algorithm that make
 
 Multi-layer Perceptron (MLP): A deep learning model with one or more hidden layers for complex prediction tasks.
 
-How the Models are Evaluated
+<h1>How the Models are Evaluated</h1>
+
 Each model is evaluated based on the following metrics:
 
 RMSE (Root Mean Squared Error): This is computed using the predictions made by the model on the test set. It gives a measure of how well the model is performing, with lower values indicating better accuracy.
