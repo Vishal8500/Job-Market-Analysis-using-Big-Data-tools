@@ -105,15 +105,9 @@ Other models like Linear Regression, SVM, Random Forest, Decision Tree, GBT, KNN
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## Contributors
 
-- [Your Name](https://github.com/your-username) - Developer
+- [Vishal](https://github.com/Vishal8500) - Developer
 
 Open to collaborations and improvements. Feel free to contribute!
 
